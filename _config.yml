@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Home Page"
-description: "Home Page. "
+description: "dorren"
 repository: "dorren002/dorren002.github.io"
 google_scholar_stats_use_cdn: false
 
@@ -23,7 +23,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Duren Wen"
   avatar: "images/63645716.jpg"
-  bio: "Postgraduate student at Beijing University of Posts and Telecommunications, majoring in computer technology."
+  bio: "Postgraduate student at Beijing University of Posts and Telecommunications(BUPT), majoring in computing technology."
   location: "Beijing, China"
   employer:
   pubmed:
