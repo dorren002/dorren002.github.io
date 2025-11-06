@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working on LMM(Large Multimodal Model) at SenseTime. I graduated from School of Artificial Intelligence, Beijing University of Posts and Telecommunications(BUPT) 2024, advised by [Xueming Li](). And I graduated from the school of Digital Media and Designing Art, BUPT with a bachelor's degree in 2021.
+I am currently working on MLLM at Shopee，before that I was worked on LLM Agent at SenseTime. I graduated from School of Artificial Intelligence, Beijing University of Posts and Telecommunications(BUPT) 2024, advised by [Xueming Li](). And I graduated from the school of Digital Media and Designing Art, BUPT with a bachelor's degree in 2021.
 
-I have great passion on generation models, and mainly interested in image generation like GANs and diffusion models. I have published a paper about GAN on old photo restoration task. And I have worked on Neural Radiance Field (NeRF) during my internship in Qcraft, that was mainly about reconstructing unbounded scenes using NeRF. Also I have payed some attention on large language models since I'm working on it, I mainly work on LMM finetuning recently.
+I have great passion on generation models, and mainly interested in image generation like GANs and diffusion models. Recently I am intrested in AIGC, like Nano Banana and Sora2, payed much attention on AI based film generation. 
 
-I participates open source community competitions and won some prizes, such as paddle implemented hand written formula recognition model _[CAN](https://aistudio.baidu.com/projectdetail/4922214)_ , wich is merged to the official repository of PaddleOCR.
+I have published a paper about GAN on old photo restoration task. And I have worked on Neural Radiance Field (NeRF) during my internship in Qcraft, that was mainly about reconstructing unbounded scenes using NeRF. I participates open source community competitions and won some prizes, such as paddle implemented hand written formula recognition model _[CAN](https://aistudio.baidu.com/projectdetail/4922214)_ , wich is merged to the official repository of PaddleOCR.
 
 I use Python most and familiar with the Pytorch, OpenCV, Numpy, Scipy and Matplotlib. And I also know some C/C++ programing skills, and worked as a software intern in Huawei.
 
